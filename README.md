@@ -1,3 +1,5 @@
+## NOTICE - original addon by LexieBean is no longer on GitHub - this is my copy for archive - I am not the developer.
+
 # AutoDB
 A 1.12.1 Vanilla WoW addon that automatically does /db chests and /db rares for pfQuest users.
 
